@@ -1,0 +1,2 @@
+# DiscordBot
+Only a command
