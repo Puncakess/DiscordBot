@@ -1,0 +1,5 @@
+send_message (Oi,sou o Gatinho Sexy,Bot Anti-Hack desse servidor,caso algum membro tente mandar algo haver com pornografia,tomará advertencias,para saber mais,consulte o Sr.Panqueca)
+filter 
+filter status -true 
+filter hentai pornô porn ecchi
+filter action warn
